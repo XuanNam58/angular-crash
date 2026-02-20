@@ -23,7 +23,7 @@ export class Home {
   housingLocation: HousingLocationInfo = {
     id: 9999,
     name: 'Test Home',
-    city: 'Test City',
+    city: 'Test city',
     state: 'ST',
     photo: `${this.baseUrl}/example-house.jpg`,
     availableUnits: 99,
